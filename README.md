@@ -1,5 +1,5 @@
-# Mcpetrade API Wrapper
-API Wrapper для взаимодействия с mcpetrade.com
+# EasyDoante API Wrapper
+API Wrapper для взаимодействия с easydonate.ru
 ## Подключение
 
 ``` js
